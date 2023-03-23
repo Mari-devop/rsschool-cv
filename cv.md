@@ -39,7 +39,15 @@ International Institute of Business _( 2018 - 2020)_
 + [hmml/css sample 1](https://github.com/Mari-devop/maket)
 + [hmml/css sample 2](https://github.com/Mari-devop/maket-delivery)
   <br><br>
-
+### Code example
+```
+// Sum Numbers
+function sum (numbers) {
+  "use strict"
+if(numbers.length === 0) return 0;
+return  numbers.reduce((total, currentValue) => total + currentValue);
+};
+```
 
 ## 👩🏼‍💻 Experience
 ---
